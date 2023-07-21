@@ -1,6 +1,6 @@
 n = input('Enter the value of n : ');
 i = 1;
-vseq(i) = 12;
+vseq(i) = n;
 while n > 1 
     if mod(n,2) == 0
         i = i + 1;
