@@ -6,6 +6,7 @@ while n > 1
         i = i + 1;
         n = n/2 ;
         vseq(i) = n;
+        
     else
         i = i + 1;
         n = 3*n + 1;
